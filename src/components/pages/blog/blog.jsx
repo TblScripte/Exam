@@ -68,13 +68,13 @@ const Blog = () => {
           <p>____________________________________________________________________________________________________________________________________________________________________________________________________________</p>
         </div>
         <div className='flex justify-between mt-[3rem]'>
-          <img src="/src/assets/WorldImg.png" alt="" />
+          <img src="../../../../src/assets/WorldImg.png" alt="" />
           <div className='w-[40%]'>
             <h1 className='text-[1.5rem] font-bold mb-[40px]'>{t("blog.text3")}</h1>
             <p className='text-[1.2rem] text-gray-600'>{t("blog.desc1")}</p>
 
             <div className='flex justify-between w-[43%] mt-[30px] items-center'>
-              <img src="/src/assets/Group 97.png" alt="" />
+              <img src="../../../../src/assets/Group 97.png" alt="" />
               <div>
                 <h1 className='font-bold'>AMAZMARKETS</h1>
                 <p>October 2, 2019 4 claps</p>
@@ -94,7 +94,7 @@ const Blog = () => {
                 <h1 className='font-bold text-[2rem] mb-[40px]'>{el.name}</h1>
                 <h1 className='text-[1.2rem] font-normal text-gray-700 h-[100px]'>{el.desc}</h1>
               <div className='flex justify-between w-[230px] mt-[30px] items-center'>
-              <img src="/src/assets/Group 97.png" alt="" />
+              <img src="../../../../src/assets/Group 97.png" alt="" />
               <div>
                 <h1 className='font-bold'>AMAZMARKETS</h1>
                 <p>October 2, 2019 4 claps</p>
@@ -104,7 +104,7 @@ const Blog = () => {
             })
           }
           <div className='flex w-[400px] m-auto mt-[40px] justify-center'>
-            <img src="/src/assets/Screenshot 2025-03-03 092527.png" alt="" />
+            <img src="../../../../src/assets/Screenshot 2025-03-03 092527.png" alt="" />
           </div>
         </div>
       </div>

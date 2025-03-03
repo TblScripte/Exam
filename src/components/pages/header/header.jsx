@@ -46,8 +46,8 @@ const Header = () => {
   return (
     <div>
       <div className="w-[90%] bg-[#222F3E] items-center flex flex-wrap justify-between text-[#889196] m-auto">
-        <img src="/src/assets/Screenshot 2025-03-02 075410.png"  alt="" />
-        <img src="/src/assets/menu (1) 1.png" className=" lg:hidden  block" alt="" />
+        <img src=".../../../../src/assets/Screenshot 2025-03-02 075410.png"  alt="" />
+        <img src="../../../../src/assets/menu (1) 1.png" className=" lg:hidden  block" alt="" />
         <div className="md:flex hidden w-[55%] items-center justify-between text-[#889196]">
           <NavLink
             to="/"
@@ -55,7 +55,7 @@ const Header = () => {
               isActive ? "text-[orange]" : "text-[#889196]"
             }
           >
-            {t("header.home")}
+            {t("header.home")} dsadsa
           </NavLink>
           <NavLink
             to="/sell"

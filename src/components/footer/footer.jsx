@@ -46,22 +46,22 @@ const Footer = () => {
             <h3 className="mt-4 text-lg font-semibold text-gray-800 dark:text-white">Follow Us:</h3>
             <div className="flex justify-center space-x-4 mt-2">
               <a href="#" className="text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-white">
-                <img src="/src/assets/facebook-logo (1) (1).png" alt="" />
+                <img src="../../../src/assets/facebook-logo (1) (1).png" alt="" />
               </a>
               <a href="#" className="text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-white">
-                <img src="/src/assets/instagram-logo (6).png" alt="" />
+                <img src="../../../src/assets/instagram-logo (6).png" alt="" />
               </a>
               <a href="#" className="text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-white">
-                <img src="/src/assets/linkedin-logo 1 (1).png" alt="" />
+                <img src="../../../src/assets/linkedin-logo 1 (1).png" alt="" />
               </a>
               <a href="#" className="text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-white">
-                <img src="/src/assets/instagram-logo (5).png" alt="" />
+                <img src="../../../src/assets/instagram-logo (5).png" alt="" />
               </a>
               <a href="#" className="text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-white">
-                <img src="/src/assets/youtube 1.png" alt="" />
+                <img src="../../../src/assets/youtube 1.png" alt="" />
               </a>
               <a href="#" className="text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-white">
-                <img src="/src/assets/instagram-logo (5).png" alt="" />
+                <img src="../../../src/assets/instagram-logo (5).png" alt="" />
               </a>
             </div>
           </div>
@@ -79,7 +79,7 @@ const Footer = () => {
               </button>
             </div>
             <div className="mt-6 flex space-x-4">
-                <img src="/src/assets/Group 115.png" alt="" />
+                <img src="../../../src/assets/Group 115.png" alt="" />
             </div>
           </div>
         </div>

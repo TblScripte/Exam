@@ -29,23 +29,23 @@ const Sellacount = () => {
             </button>
             <div className="flex w-[70%] mt-[2rem] justify-between mb-[40px]">
               <div className="flex mr-[2rem] w-[50%] justify-between">
-                <img src="/src/assets/facebook-logo (1).png" alt="" />
-                <img src="/src/assets/instagram-logo.png" alt="" />
-                <img src="/src/assets/linkedin-logo 1.png" alt="" />
-                <img src="/src/assets/instagram-logo (1).png" alt="" />
+                <img src="../../../../src/assets/facebook-logo (1).png" alt="" />
+                <img src="../../../../src/assets/instagram-logo.png" alt="" />
+                <img src="../../../../src/assets/linkedin-logo 1.png" alt="" />
+                <img src="../../../../src/assets/instagram-logo (1).png" alt="" />
               </div>
               <div className="flex w-[50%] justify-between">
-                <img src="/src/assets/facebook-logo (2).png" alt="" />
-                <img src="/src/assets/instagram-logo (2).png" alt="" />
-                <img src="/src/assets/linkedin-logo (2).png" alt="" />
-                <img src="/src/assets/instagram-logo (3).png" alt="" />
+                <img src="../../../../src/assets/facebook-logo (2).png" alt="" />
+                <img src="../../../../src/assets/instagram-logo (2).png" alt="" />
+                <img src="../../../../src/assets/linkedin-logo (2).png" alt="" />
+                <img src="../../../../src/assets/instagram-logo (3).png" alt="" />
               </div>
             </div>
           </div>
           <div>
             <img
               className="relative w-[580px]"
-              src="/src/assets/Mackbook Pro Mockup 1.png"
+              src="../../../../src/assets/Mackbook Pro Mockup 1.png"
               alt=""
             />
             <div
@@ -84,7 +84,7 @@ const Sellacount = () => {
           </div>
         </div>
         <div className="flex justify-center w-[100px] m-auto">
-          <img src="/src/assets/Screenshot 2025-03-02 111026.png" alt="" />
+          <img src="../../../../src/assets/Screenshot 2025-03-02 111026.png" alt="" />
         </div>
       </div>
       <div
@@ -137,7 +137,7 @@ const Sellacount = () => {
             <div className="w-[500px] ml-[50px] mb-[40px] p-4 flex items-start rounded-md shadow-md">
               <img
                 className="mr-[30px]"
-                src="/src/assets/message 1.png"
+                src="../../../../src/assets/message 1.png"
                 alt=""
               />
               <div className="w-[300px]">
@@ -150,7 +150,7 @@ const Sellacount = () => {
             <div className="w-[500px] ml-[50px] mb-[40px] p-4 flex items-start rounded-md shadow-md">
               <img
                 className="mr-[30px]"
-                src="/src/assets/phone-call (1) 1.png"
+                src="../../../../src/assets/phone-call (1) 1.png"
                 alt=""
               />
               <div>
@@ -163,7 +163,7 @@ const Sellacount = () => {
             <div className="w-[500px] ml-[50px] mb-[40px] p-4 flex items-start rounded-md shadow-md">
               <img
                 className="mr-[30px]"
-                src="/src/assets/budget (1) 1.png"
+                src="../../../../src/assets/budget (1) 1.png"
                 alt=""
               />
               <div>
@@ -186,28 +186,28 @@ const Sellacount = () => {
           </h1>
           <div className="w-[500px]">
             <div className="flex items-center">
-              <img src="/src/assets/number 1.png" alt="" />
+              <img src="../../../../src/assets/number 1.png" alt="" />
               <h1 className="ml-[10px] font-bold">
                 {t("sellacount.card1.name1")}
               </h1>
             </div>
-            <img src="/src/assets/Group 428.png" className="ml-[38px]" alt="" />
+            <img src="../../../../src/assets/Group 428.png" className="ml-[38px]" alt="" />
             <div className="flex items-center">
-              <img src="/src/assets/number 2.png" alt="" />
+              <img src="../../../../src/assets/number 2.png" alt="" />
               <h1 className="ml-[10px] font-bold">
                 {t("sellacount.card1.name2")}
               </h1>
             </div>
-            <img src="/src/assets/Group 428.png" className="ml-[38px]" alt="" />
+            <img src="../../../../src/assets/Group 428.png" className="ml-[38px]" alt="" />
             <div className="flex items-center">
-              <img src="/src/assets/number 3.png" alt="" />
+              <img src="../../../../src/assets/number 3.png" alt="" />
               <h1 className="ml-[10px] font-bold">
                 {t("sellacount.card1.name3")}
               </h1>
             </div>
-            <img src="/src/assets/Group 428.png" className="ml-[38px]" alt="" />
+            <img src="../../../../src/assets/Group 428.png" className="ml-[38px]" alt="" />
             <div className="flex items-center">
-              <img src="/src/assets/number 4.png" alt="" />
+              <img src="../../../../src/assets/number 4.png" alt="" />
               <h1 className="ml-[10px] font-bold">
                 {t("sellacount.card1.name4")}
               </h1>
@@ -300,10 +300,10 @@ const Sellacount = () => {
         </div>
       </div>
       <div className="w-[90%] m-auto flex justify-around mt-[50px] items-center">
-        <img src="/src/assets/Group ImgPhone.png" alt="" />
+        <img src="../../../../src/assets/Group ImgPhone.png" alt="" />
         <div className="w-[500px]">
           <div className="flex items-center">
-            <img src="/src/assets/number 1.png" alt="" />
+            <img src="../../../../src/assets/number 1.png" alt="" />
             <div className="text-start ml-[40px]">
               <h1 className="mb-[10px] font-bold">
                 {t("sellacount.card1.name1")}
@@ -311,9 +311,9 @@ const Sellacount = () => {
               <p className="text-gray-600">{t("sellacount.card2.text1")}</p>
             </div>
           </div>
-          <img src="/src/assets/Group 428.png" className="ml-[38px]" alt="" />
+          <img src="../../../../src/assets/Group 428.png" className="ml-[38px]" alt="" />
           <div className="flex items-center">
-            <img src="/src/assets/number 2.png" alt="" />
+            <img src="../../../../src/assets/number 2.png" alt="" />
             <div className="text-start ml-[40px]">
               <h1 className="mb-[10px] font-bold">
                 {t("sellacount.card1.name2")}
@@ -321,9 +321,9 @@ const Sellacount = () => {
               <p className="text-gray-600">{t("sellacount.card2.text2")}</p>
             </div>
           </div>
-          <img src="/src/assets/Group 428.png" className="ml-[38px]" alt="" />
+          <img src="../../../../src/assets/Group 428.png" className="ml-[38px]" alt="" />
           <div className="flex items-center">
-            <img src="/src/assets/number 3.png" alt="" />
+            <img src="../../../../src/assets/number 3.png" alt="" />
             <div className="text-start ml-[40px]">
               <h1 className="mb-[10px] font-bold">
                 {t("sellacount.card1.name3")}
@@ -331,9 +331,9 @@ const Sellacount = () => {
               <p className="text-gray-600">{t("sellacount.card2.text3")}</p>
             </div>
           </div>
-          <img src="/src/assets/Group 428.png" className="ml-[38px]" alt="" />
+          <img src="../../../../src/assets/Group 428.png" className="ml-[38px]" alt="" />
           <div className="flex items-center">
-            <img src="/src/assets/number 4.png" alt="" />
+            <img src="../../../../src/assets/number 4.png" alt="" />
             <div className="text-start ml-[40px]">
               <h1 className="mb-[10px] font-bold">
                 {t("sellacount.card1.name4")}
@@ -341,20 +341,20 @@ const Sellacount = () => {
               <p className="text-gray-600">{t("sellacount.card2.text4")}</p>
             </div>
           </div>
-          <img src="/src/assets/Group 428.png" className="ml-[38px]" alt="" />
+          <img src="../../../../src/assets/Group 428.png" className="ml-[38px]" alt="" />
           <div className="flex items-center">
-            <img src="/src/assets/number5.png" alt="" />
+            <img src="../../../../src/assets/number5.png" alt="" />
             <div className="text-start ml-[40px]">
               <h1 className="mb-[10px] font-bold">
                 {t("sellacount.card1.name4")}
               </h1>
               <p className="text-gray-600">{t("sellacount.card2.text5")}</p>
             </div>
-            <img src="/src/assets/Group 428.png" className="ml-[38px]" alt="" />
+            <img src="../../../../src/assets/Group 428.png" className="ml-[38px]" alt="" />
           </div>
-          <img src="/src/assets/Group 428.png" className="ml-[38px]" alt="" />
+          <img src="../../../../src/assets/Group 428.png" className="ml-[38px]" alt="" />
           <div className="flex items-center">
-            <img src="/src/assets/number  6.png" alt="" />
+            <img src="../../../../src/assets/number  6.png" alt="" />
             <div className="text-start ml-[40px]">
               <h1 className="mb-[10px] font-bold">
                 {t("sellacount.card1.name4")}
@@ -377,12 +377,12 @@ const Sellacount = () => {
           <div className="mt-16 bg-gray-100 p-8 rounded-lg shadow-md flex flex-col md:flex-row items-center">
             <img
               className="w-48 h-48 rounded-full object-cover"
-              src="/src/assets/request.png"
+              src="../../../../src/assets/request.png"
             />
             <div className="md:ml-8 text-left">
               <div className="mt-4 flex items-center">
                 <img
-                  src="/src/assets/1231242112 1.png"
+                  src="../../../../src/assets/1231242112 1.png"
                   className="mr-[60px]"
                   alt=""
                 />
@@ -427,11 +427,11 @@ const Sellacount = () => {
             <h2 className="text-2xl font-semibold">{t("home.say")}</h2>
             <div className="mt-6 flex flex-col md:flex-row justify-center gap-8">
               <div className="max-w-sm p-4 border rounded-lg shadow-md">
-                <img src="/src/assets/Ellipse 311 (1).png" alt="" />
+                <img src="../../../../src/assets/Ellipse 311 (1).png" alt="" />
                 <div>
                   <img
                     className="ml-[5rem] mt-[-30px] pb-[1rem]"
-                    src="/src/assets/“ (1).png"
+                    src="../../../../src/assets/“ (1).png"
                     alt=""
                   />
                   <p className="text-gray-600 italic">{t("home.lecture")}</p>
@@ -439,10 +439,10 @@ const Sellacount = () => {
                 </div>
               </div>
               <div className="max-w-sm p-4 border rounded-lg shadow-md">
-                <img src="/src/assets/Ellipse 311.png" alt="" />
+                <img src="../../../../src/assets/Ellipse 311.png" alt="" />
                 <div>
                   <img
-                    src="/src/assets/“ (1).png"
+                    src="../../../../src/assets/“ (1).png"
                     alt=""
                     className="ml-[5rem] mt-[-30px] pb-[1.2rem]"
                   />
@@ -454,7 +454,7 @@ const Sellacount = () => {
             <div className="w-[100px] m-auto mt-[30px]">
               <img
                 className="flex justify-center"
-                src="/src/assets/Group 380.png"
+                src="../../../../src/assets/Group 380.png"
                 alt=""
               />
             </div>

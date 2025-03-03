@@ -17,19 +17,19 @@ const Leave = () => {
           <h3 className="text-lg font-medium mt-4">Check your account</h3>
           <p className="text-gray-600 mt-2 text-sm">Check the account of your choice via TeamViewer or Any Desk. You inspect the account from your end to confirm your selection.</p>
         </div>
-        <img className='w-12 hidden md:block' src="/src/assets/down.png" alt="Step arrow" />
+        <img className='w-12 hidden md:block' src="../../../../src/assets/down.png" alt="Step arrow" />
         <div className="flex flex-col items-center text-center max-w-xs">
           <div className="flex items-center justify-center w-12 h-12 rounded-full bg-orange-500 text-white text-lg font-bold">2</div>
           <h3 className="text-lg font-medium mt-4">Payment</h3>
           <p className="text-gray-600 mt-2 text-sm">We take a payment using your preferred method. We accept Payoneer, bank transfer and bitcoin.</p>
         </div>
-        <img className='w-12 hidden md:block' src="/src/assets/up.png" alt="Step arrow" />
+        <img className='w-12 hidden md:block' src="../../../../src/assets/up.png" alt="Step arrow" />
         <div className="flex flex-col items-center text-center max-w-xs">
           <div className="flex items-center justify-center w-12 h-12 rounded-full bg-orange-500 text-white text-lg font-bold">3</div>
           <h3 className="text-lg font-medium mt-4">Account ownership</h3>
           <p className="text-gray-600 mt-2 text-sm">We give you all the log in details to your new account. After that, you set up your own password and Two-Step authentication methods for your Amazon account and Virtual Proxy Server where your account is located.</p>
         </div>
-        <img className='w-12 hidden md:block' src="/src/assets/down.png" alt="Step arrow" />
+        <img className='w-12 hidden md:block' src="../../../../src/assets/down.png" alt="Step arrow" />
         <div className="flex flex-col items-center text-center max-w-xs">
           <div className="flex items-center justify-center w-12 h-12 rounded-full bg-orange-500 text-white text-lg font-bold">4</div>
           <h3 className="text-lg font-medium mt-4">Account set up</h3>
@@ -38,7 +38,7 @@ const Leave = () => {
       </div>
 
       <div className="mt-16 bg-gray-100 p-8 rounded-lg shadow-md flex flex-col md:flex-row items-center">
-        <img className="w-48 h-48 rounded-full object-cover" src="/src/assets/request.png" alt="Request" />
+        <img className="w-48 h-48 rounded-full object-cover" src="../../../../src/assets/request.png" alt="Request" />
         <div className="md:ml-8 text-left">
           <h2 className="text-xl font-semibold">Leave a Request</h2>
           <p className="text-gray-600 mt-2">It will take you less than sixty seconds. A member of our team will contact you shortly after.</p>

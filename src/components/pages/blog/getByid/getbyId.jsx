@@ -15,37 +15,37 @@ const GetbyId = () => {
    const [data,setData] = useState([
         {
           id:1,
-          img:"/src/assets/MYbhN8KaaEc.png",
+          img:"../../../../../src/assets/MYbhN8KaaEc.png",
           name:t("blog.text4"),
           desc:t("blog.desc2"),
         },
         {
           id:2,
-          img:"/src/assets/MYbhN8KaaEc (1).png",
+          img:"../../../../../src/assets/MYbhN8KaaEc (1).png",
           name:t("blog.text5"),
           desc:t("blog.desc3"),
         },
         {
           id:3,
-          img:"/src/assets/MYbhN8KaaEc (2).png",
+          img:"../../../../../src/assets/MYbhN8KaaEc (2).png",
           name:t("blog.text6"),
           desc:t("blog.desc4"),
         },
         {
           id:4,
-          img:"/src/assets/MYbhN8KaaEc.png",
+          img:"../../../../../src/assets/MYbhN8KaaEc.png",
           name:t("blog.text4"),
           desc:t("blog.desc2"),
         },
         {
           id:5,
-          img:"/src/assets/MYbhN8KaaEc (1).png",
+          img:"../../../../../src/assets/MYbhN8KaaEc (1).png",
           name:t("blog.text5"),
           desc:t("blog.desc3"),
         },
         {
           id:6,
-          img:"/src/assets/MYbhN8KaaEc (2).png",
+          img:"../../../../../src/assets/MYbhN8KaaEc (2).png",
           name:t("blog.text6"),
           desc:t("blog.desc4"),
         },
@@ -66,7 +66,7 @@ const GetbyId = () => {
                 <h1 className='font-bold text-[2rem] mb-[40px]'>{data.name}</h1>
                 <h1 className='text-[1.2rem] font-normal text-gray-700 h-[100px]'>{data.desc}</h1>
               <div className='flex justify-between w-[230px] mt-[30px] items-center'>
-              <img src="/src/assets/Group 97.png" alt="" />
+              <img src="../../../../../src/assets/Group 97.png" alt="" />
               <div>
                 <h1 className='font-bold'>AMAZMARKETS</h1>
                 <p>October 2, 2019 4 claps</p>

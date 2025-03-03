@@ -108,16 +108,16 @@ const Home = () => {
             </button>
             <div className='flex w-[70%] mt-[2rem] justify-between mb-[40px]'>
               <div className='flex mr-[2rem] w-[50%] justify-between'>
-                <img src="/src/assets/facebook-logo (1).png" alt="" />
-                <img src="/src/assets/instagram-logo.png" alt="" />
-                <img src="/src/assets/linkedin-logo 1.png" alt="" />
-                <img src="/src/assets/instagram-logo (1).png" alt="" />
+                <img src="../../../../src/assets/facebook-logo (1).png" alt="" />
+                <img src="../../../../src/assets/instagram-logo.png" alt="" />
+                <img src="../../../../src/assets/linkedin-logo 1.png" alt="" />
+                <img src="../../../../src/assets/instagram-logo (1).png" alt="" />
               </div>
               <div className='flex w-[50%] justify-between'>
-                <img src="/src/assets/facebook-logo (2).png" alt="" />
-                <img src="/src/assets/instagram-logo (2).png" alt="" />
-                <img src="/src/assets/linkedin-logo (2).png" alt="" />
-                <img src="/src/assets/instagram-logo (3).png" alt="" />
+                <img src="../../../../src/assets/facebook-logo (2).png" alt="" />
+                <img src="../../../../src/assets/instagram-logo (2).png" alt="" />
+                <img src="../../../../src/assets/linkedin-logo (2).png" alt="" />
+                <img src="../../../../src/assets/instagram-logo (3).png" alt="" />
               </div>
             </div>
           </div>
@@ -133,7 +133,7 @@ const Home = () => {
           </div>
         </div>
         <div className='flex justify-center w-[100px] m-auto'>
-          <img src="/src/assets/Screenshot 2025-03-02 111026.png" alt="" />
+          <img src="../../../../src/assets/Screenshot 2025-03-02 111026.png" alt="" />
         </div>
       </div>
 
@@ -143,7 +143,7 @@ const Home = () => {
           <div className='w-[400px] text-center flex-wrap'>
             <h1 className='text-[2rem] font-bold text-center mb-[40px]'>{t("home.card1.name")}</h1>
             <div className='p-[2rem] bg-[white] text-center rounded-2xl w-[350px] h-[530px] justify-center shadow'>
-              <img src="/src/assets/image 29.png" alt="" />
+              <img src="../../../../src/assets/image 29.png" alt="" />
               <p className='text-[20px] mb-[10px] text-[gray]'>{t("home.card1.text1")}</p>
               <p className='text-[20px] mb-[10px] text-[gray]'>{t("home.card1.text2")}</p>
               <p className='text-[20px] mb-[10px] text-[gray]'>{t("home.card1.text3")}</p>
@@ -153,7 +153,7 @@ const Home = () => {
           <div className='w-[400px] text-center flex-wrap'>
             <h1 className='text-[2rem] font-bold text-center mb-[40px]'>{t("home.card2.name")}</h1>
             <div className='p-[2rem] bg-[white] text-center rounded-2xl w-[350px] h-[530px] justify-center shadow'>
-              <img src="/src/assets/image 30.png" alt="" />
+              <img src="../../../../src/assets/image 30.png" alt="" />
               <p className='text-[20px] mb-[10px] text-[gray]'>{t("home.card2.text1")}</p>
               <p className='text-[20px] mb-[10px] text-[gray]'>{t("home.card2.text2")}</p>
               <p className='text-[20px] mb-[10px] text-[gray]'>{t("home.card2.text3")}</p>
@@ -164,7 +164,7 @@ const Home = () => {
           <div className='w-[400px] text-center flex-wrap'>
             <h1 className='text-[2rem] font-bold text-center mb-[40px]'>{t("home.card3.name")}</h1>
             <div className='p-[2rem] bg-[white] text-center rounded-2xl w-[350px] h-[530px] justify-center shadow'>
-              <img src="/src/assets/image 31.png" alt="" />
+              <img src="../../../../src/assets/image 31.png" alt="" />
               <p className='text-[20px] mb-[10px] text-[gray]'>{t("home.card3.text1")}</p>
               <p className='text-[20px] mb-[10px] text-[gray]'>{t("home.card3.text2")}</p>
               <p className='text-[20px] mb-[10px] text-[gray]'>{t("home.card3.text3")}</p>
@@ -241,21 +241,21 @@ const Home = () => {
       <div className='w-[50%] z-10 lg:flex  justify-between'  style={{ backgroundImage: "url('/src/assets/Ellipse 312.png')",zIndex:"10", backgroundSize: "cover", backgroundPosition: "center", height: "600px" }}>
         <div className='w-[100%] pt-[100px] pl-[100px]'  style={{ backgroundImage: "url('/src/assets/айфон1 1.png')",zIndex:"10", backgroundSize: "cover", backgroundPosition: "center", height: "600px" }}>
         <div className='w-[230px] flex justify-around items-center ml-[100px] pb-[3px] h-[68px] pl-[5px] border p-1 bg-[white] rounded-full'>
-          <img src="/src/assets/Ellipse 313.png" alt="" />
+          <img src="../../../../src/assets/Ellipse 313.png" alt="" />
           <div>
             <h1 className='font-bold'>{t("home.text6")}</h1>
             <h1 className='font-bold text-[gray]'>22/10/19 - 3:15 PM</h1>
           </div>
         </div>
         <div className='w-[230px] mt-[80px] flex justify-around items-center ml-[-100px] pb-[3px] h-[68px] pl-[5px] border p-1 bg-[white] rounded-full'>
-          <img src="/src/assets/Ellipse 313 (1).png" alt="" />
+          <img src="../../../../src/assets/Ellipse 313 (1).png" alt="" />
           <div>
             <h1 className='font-bold'>{t("home.text7")}</h1>
             <h1 className='font-bold text-[gray]'>25/11/20 - 8:15 PM</h1>
           </div>
         </div>
         <div className='w-[230px] flex justify-around items-center ml-[200px] mt-[100px] pb-[3px] h-[68px] pl-[5px] border p-1 bg-[white] rounded-full'>
-          <img src="/src/assets/Ellipse 313 (2).png" alt="" />
+          <img src="../../../../src/assets/Ellipse 313 (2).png" alt="" />
           <div>
             <h1 className='font-bold'>{t("home.text8")}</h1>
             <h1 className='font-bold text-[gray]'>1/01/20 - 6:20 PM</h1>
@@ -384,7 +384,7 @@ const Home = () => {
     </section>
       </div>
       <div className='w-[80%] m-auto mt-[100px] flex justify-between'style={{ backgroundImage: "url('/src/assets/Polygon 162.png')",zIndex:"10", backgroundSize: "cover", backgroundPosition: "center", height: "600px" }} >
-      <img src="/src/assets/Group 775.png" alt="" />
+      <img src="../../../../src/assets/Group 775.png" alt="" />
       <div className='w-[500px]'>
         <h1 className='text-[1.5rem] font-bold'>{t("home.text11")}</h1>
         <div className='mt-[60px]'>
@@ -444,7 +444,7 @@ const Home = () => {
             <img className="w-48 h-48 rounded-full object-cover" src="/src/assets/request.png" />
             <div className="md:ml-8 text-left">
               <div className="mt-4 flex items-center">
-              <img src="/src/assets/1231242112 1.png" className='mr-[60px]' alt="" />
+              <img src="../../../../src/assets/1231242112 1.png" className='mr-[60px]' alt="" />
               <div>
               <h2 className="text-xl font-semibold">{t("home.leave")}</h2>
               <p className="text-gray-600 w-[300px] mt-2">{t("home.desc1")}</p>
@@ -461,7 +461,7 @@ const Home = () => {
             <h2 className="text-2xl font-semibold">{t("home.say")}</h2>
             <div className="mt-6 flex flex-col md:flex-row justify-center gap-8">
               <div className="max-w-sm p-4 border rounded-lg shadow-md">
-                <img src="/src/assets/Ellipse 311 (1).png" alt="" />
+                <img src="../../../../src/assets/Ellipse 311 (1).png" alt="" />
                 <div>
                 <img className='ml-[5rem] mt-[-30px] pb-[1rem]' src="/src/assets/“ (1).png" alt="" />
                 <p className="text-gray-600 italic">{t("home.lecture")}</p>
@@ -469,9 +469,9 @@ const Home = () => {
                 </div>
               </div>
               <div className="max-w-sm p-4 border rounded-lg shadow-md">
-              <img src="/src/assets/Ellipse 311.png" alt="" />
+              <img src="../../../../src/assets/Ellipse 311.png" alt="" />
               <div>
-              <img src="/src/assets/“ (1).png" alt="" className='ml-[5rem] mt-[-30px] pb-[1.2rem]' />
+              <img src="../../../../src/assets/“ (1).png" alt="" className='ml-[5rem] mt-[-30px] pb-[1.2rem]' />
                   <p className="text-gray-600 italic">{t("home.Excellent")}</p>
                 <p className="mt-2 font-semibold">Jason Luis</p>
                 </div>
@@ -488,7 +488,7 @@ const Home = () => {
           </div>
           <div>
             <div className='w-[400px] rounded-md mb-[20px] p-[10px] shadow bg-[white] flex items-center justify-between rounded-m'>
-              <img src="/src/assets/img 1.png" alt="" className='mr-[30px]' />
+              <img src="../../../../src/assets/img 1.png" alt="" className='mr-[30px]' />
               <div>
                 <h1 className='font-bold'>{t("home.bgImg.card1.name")}</h1>
                 <p>{t("home.bgImg.card1.desc")}</p>
@@ -496,7 +496,7 @@ const Home = () => {
               <KeyboardArrowDownIcon/>
             </div>
             <div className='w-[400px] rounded-md mb-[20px] p-[10px] shadow bg-[white] flex items-center justify-between'>
-              <img src="/src/assets/img 2.png" alt="" className='mr-[30px]' />
+              <img src="../../../../src/assets/img 2.png" alt="" className='mr-[30px]' />
               <div>
                 <h1 className='font-bold'>{t("home.bgImg.card2.name")}</h1>
                 <p>{t("home.bgImg.card2.desc")}</p>
@@ -504,7 +504,7 @@ const Home = () => {
               <KeyboardArrowDownIcon/>
             </div>
             <div className='w-[400px] rounded-md mb-[20px] p-[10px] shadow bg-[white] flex items-center justify-between '>
-              <img src="/src/assets/img3.png" alt="" className='mr-[30px]' />
+              <img src="../../../../src/assets/img3.png" alt="" className='mr-[30px]' />
               <div>
                 <h1 className='font-bold'>{t("home.bgImg.card3.name")}</h1>
                 <p>{t("home.bgImg.card3.desc")}</p>
@@ -512,7 +512,7 @@ const Home = () => {
               <KeyboardArrowDownIcon/>
             </div>
             <div className='w-[400px] rounded-md mb-[20px] p-[10px] shadow bg-[white] flex items-center justify-between '>
-              <img src="/src/assets/img4.png" alt="" className='mr-[30px]' />
+              <img src="../../../../src/assets/img4.png" alt="" className='mr-[30px]' />
               <div>
                 <h1 className='font-bold'>{t("home.bgImg.card4.name")}</h1>
                 <p>{t("home.bgImg.card4.desc")}</p>
@@ -520,7 +520,7 @@ const Home = () => {
               <KeyboardArrowDownIcon/>
             </div>
             <div className='w-[400px]  mb-[20px] p-[10px] shadow bg-[white] flex items-center justify-between '>
-              <img src="/src/assets/img5.png" alt="" className='mr-[30px]' />
+              <img src="../../../../src/assets/img5.png" alt="" className='mr-[30px]' />
               <div>
                 <h1 className='font-bold'>{t("home.bgImg.card5.name")}</h1>
                 <p>{t("home.bgImg.card5.desc")}</p>
