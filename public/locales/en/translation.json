@@ -1,0 +1,216 @@
+{
+    "header":{
+        "home":"Buy Account",
+        "sell":"Sell account",
+        "servies":"Services",
+        "blog":"Blog",
+        "search":"Search"
+    },
+    "getById":"GET BYId",
+    "search":{
+    "meet":"Meet Our Team",
+    "Analytics": "Analysis of the USA and European markets, Selection of the niche and product on Amazon, Business plan development",
+    "Suppliers": "Supplier search, Supplier review, Goods inspection, Delivery of goods to Amazon warehouse",
+    "Listing": "Analysis of competitor's reviews and goods, Keywords selection (200-600), Copywriting texts, Package photoshoot (on location, in studio), Design of advertising images, Creation of ready-made Amazon page",
+    "Branding": "Creation of new brand name, Development of logo and style, Package design, Creation of additional production: inserts, instructions, leaflets",
+    "Marketing": "PPC advertising (Amazon, Facebook, Google, Instagram), Listing audit and optimization, Review generation, Landing page development",
+    "Data scraping": "Action plan for eCommerce growth, Digital shelf analytics for any retailer, Amazon sales, share, traffic, and conversion analytics, Expert recommendations & analysis",
+    "card1":{
+        "name1":"Account Manager",
+        "name2":"Analytics",
+        "name3":"Logisticians",
+        "name4":"Progect Manager",
+        "name5":"Designer",
+        "name6":"Retousher",
+        "name7":"Copywriter",
+        "name8":"Photographer",
+        "name9":"Marketer",
+        "name10":"PPC-specialist"
+    },
+    "card2":{
+        "name1":"Make your choice",
+        "name2":"Submit a request",
+        "name3":"Work Evaluation",
+        "name4":"Start Working",
+        "desc":"Select all necessary services you need.",
+        "desc1":"Complete the form and send it to us.",
+        "desc2":"We will apply the best offer to you.",
+        "desc3":"That`s it! We are ready to start working."
+    }
+    },
+    "sellacount":{
+        "text":"Details that will be changed during an account transfer",
+        "text1":"Feel free to use our online evaluation tool to find out how much your account could be worth",
+        "text2":"Evaluation Tool",
+        "text3":"Earlier",
+        "text4":"Account registration date:",
+        "text5":"Amazon marketplace location:",
+        "text6":"Have you received policy violation notifications in the past",
+        "text7":"The deal usually takes 5 days.",
+        "yes":"Yes",
+        "no":"No",
+        "btn":"Get Evaluation",
+        "email":"Your email address:",
+        "desc":"It will take you less than sixty seconds. A member of our team will contact you shortly after.",
+        "card1":{
+            "name1":"Use our online evaluation tool to find out how much your account could be worth.",
+            "name2":"Our specialist will contact you and explain how the transfer process will commence.",
+            "name3":"Contract agreement - signed by both parties.",
+            "name4":"Payment confirmation."
+        },
+        "card2":{
+            "text1":"Find out the cost of your account and book a call to consult with our manager.",
+            "text2":"You will receive call details and your manager’s name.",
+            "text3":"Our team member will make a screen sharing session with you to check your account statistics.",
+            "text4":"We use e-signature for a bill of sale.",
+            "text5":"You will receive money for your account in 2-3 business days. You will get the confirmation.",
+            "text6":"Schedule a time for a final screen sharing session. We will help you to fill in details for your account transfer."
+        }
+    },
+    "blog":{
+        "text1":"Blog",
+        "text2":"Last added",
+        "text3":"CRYPTO TRADING RECOMMENDATIONS",
+        "text4":"Best crypto trading groups",
+        "text5":"How crypto trading services works?",
+        "text6":"How to earn money with crypto trading algorithm?",
+        "text7":"Go to page Blog",
+        "buy":"Info buy Acount",
+        "desc1":"Usually, there are three main types of trade – short, medium  and long term. In the industry, there are only two main types  of cryptocurrency, short-term and long-term.",
+        "desc2":"Trading cryptocurrencies or cryptotrading is a type of activity that is aimed at extracting profit from processes aimed at analyzing and forecasting the price of digital currencies.",
+        "desc3":"If you read this article, then you are interested how crypto trading works.",
+        "desc4":"If you have available funds, and you want to multiply your capital in a short time, the best opportunity for this is crypto trading.",
+        "home":"Home",
+        "btn":{
+            "text1":"All categories"
+        }
+    },
+    "home":{
+        "text1":"Start selling on Amazon right  after buying an aged account or an entire online business",
+        "text2":"After your payment, you will be given access to full account details such as: login, e-mail details, bank card information and other important documentation.",
+        "btn":"GET STARTED",
+        "text3":"Amazon Global Selling: Access to the top international retail markets",
+        "text4":"List of aged accounts for sale",
+        "text5":"Selling",
+        "text6":"Cool service!",
+        "text7":"So useful!",
+        "text8":"Great experience!",
+        "text9":"Benefits you will get",
+        "text10":"Amazon verified accounts",
+        "desc":"Become an Amazon seller! We offer country-based accounts for selling on Amazon.",
+        "text11":"Buy new or aged Amazon Seller account",
+        "price":"Price",
+        "say":"What our clients say",
+        "lecture":"I have to say, amazmarkets gets over an A+ rating from me. I will be recommending this company and team to everyone. Thanks again!”",
+        "Excellent":"Excellent and professional service. Very friendly and helpful. Would definitely use again. Highly recommend!”",
+        "newAmazon":"New Amazon Seller Account",
+        "newAmazon1":"Aged Amazon Seller Account",
+        "email":"Email Address",
+        "phoneNumber":"Telephone number",
+        "send":"send",
+        "message":"Your message",
+        "leave":"Leave a Request",
+        "desc1":"It will take you less than sixty seconds. A member of our team will contact you shortly after.",
+        "new":{
+            "card1":{
+                "name":"Aged seller accounts",
+                "desc":"Aged seller accounts are checked by account health, sales history, suspensions, type of fulfillment used to sell, feedback quantity and quality, all performance notifications and ungated brands or categories. As we are having a dropshipping business on Amazon, we know everything about suspensions and importance to check all this information before selling any of the accounts."
+            },
+            "card2":{
+                "name":"New seller accounts",
+                "desc":"New seller accounts that were not suspended upon registration and are almost guaranteed to have no utility bill request in future. We never experienced Amazon asking for a utility bill in case it wasn't requested in the beginning. These accounts can be used both for selling or for technical purposes."
+            }
+        },
+        "wife":{
+            "card1":{
+                "name":"Work around the world",
+                "desc":"The account will be installed on the server with a special IP address."
+            },
+            "card2":{
+                "name":"All types of selling",
+                "desc":"Dropshipping, Online Arbitrage, Private Label."
+            },
+            "card3":{
+                "name":"Money flow",
+                "desc":"All payments will go to your Payoneer."
+            }
+        },
+        "card1":{
+            "name":"Americas",
+            "text1":"Amazon.com",
+            "text2":"Amazon.ca",
+            "text3":"Amazon.com.mx",
+            "text4":"Amazon.com.br"
+        },
+        "card2":{
+            "name":"Europe",
+            "text1":"Amazon.com",
+            "text2":"Amazon.de",
+            "text3":"Amazon.fr",
+            "text4":"Amazon.com.it",
+            "text5":"Amazon.es"
+        },
+        "card3":{
+            "name":"Asia-Pacific",
+            "text1":"Amazon.copy.it",
+            "text2":"Amazon.cn",
+            "text3":"Amazon.in",
+            "text5":"Amazon.con.au"
+        },
+        "count":{
+            "text1":"Marketplaces",
+            "text2":"Fulfillment Centers",
+            "text3":"Countries with Loyal Amazon Customers",
+            "text4":"Product Categories"
+        },
+        "table":{
+            "th1":"Business name",
+            "th2":"Market",
+            "th3":"Type",
+            "th4":"Account age",
+            "th5":"Reviews",
+            "th6":"Ratio",
+            "th7":"Price",
+            "th8":"Account Details",
+            "typeProducts":"Pro Account",
+            "positive":"positive",
+            "moreInfo":"More Info"
+        },
+        "card":{
+            "card1":{
+                "name":"Verified Amazon Accounts",
+                "desc":"Each account goes through an expanded multi-level authentication before the commercial offer."
+            },
+            "card2":{
+                "name":"Deal Safety",
+                "desc":"We ensure the security of the account transaction  between the seller and the buyer."
+            },
+            "card3":{
+                "name":"After-purchase Support",
+                "desc":"We will provide you a technical support within 14 days after the purchase. We will be happy to answer all your questions."
+            }
+        },
+        "bgImg":{
+            "card1":{
+                "name":"General Inquiries",
+                "desc":"Common information about the work of AmazMarkets."
+            },
+            "card2":{
+                "name":"Multiple Seller Accounts",
+                "desc":"Learn more about the process of creating multiple sellers accounts."
+            },
+            "card3":{
+                "name":"Payment Procedure",
+                "desc":"Security of the account you buy and your personal data."
+            },
+            "card4":{
+                "name":"Refund Policy",
+                "desc":"SellerSpace policy regarding account returns and refunds."
+            },
+            "card5":{
+                "name":"Privacy and Security",
+                "desc":"Payment methods and payments process itself."
+            }
+        }
+    }
+}
