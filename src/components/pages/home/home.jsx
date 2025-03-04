@@ -5,6 +5,15 @@ import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
 import Leave from '../Leave/leave';
 import { TextField } from '@mui/material';
 import img1 from "../../../../src/assets/facebook-logo (1).png"
+import img2 from "../../../../src/assets/united-states (1) 1.png"
+import img3 from "../../../../src/assets/instagram-logo.png"
+import img4 from "../../../../src/assets/linkedin-logo 1.png"
+import img5 from "../../../../src/assets/instagram-logo (1).png"
+import img6 from "../../../../src/assets/united-states (1) 1.png"
+import img7 from "../../../../src/assets/united-states (1) 1.png"
+import img8 from "../../../../src/assets/united-states (1) 1.png"
+import img9 from "../../../../src/assets/united-kingdom 1.png"
+import img10 from "../../../../src/assets/united-kingdom 1 (1).png"
 
 const Home = () => {
   const { t, i18n } = useTranslation();
@@ -18,7 +27,7 @@ const Home = () => {
   const data = useMemo(() => [
     { 
       name: "Flagman_Shop",
-      img: "/src/assets/united-states (1) 1.png",
+      img: img2,
       market: "US",
       type: t("typeProducts"),
       age: "2019",
@@ -28,7 +37,7 @@ const Home = () => {
     },
     { 
       name: "Health Care Direct UK",
-      img: "/src/assets/united-states (1) 1.png",
+      img: img6,
       market: "US",
       type: t("typeProducts"),
       age: "2019",
@@ -38,7 +47,7 @@ const Home = () => {
     },
     { 
       name: "Flagman_Shop",
-      img: "/src/assets/united-states (1) 1.png",
+      img: img7,
       market: "US",
       type: t("typeProducts"),
       age: "2019",
@@ -48,7 +57,7 @@ const Home = () => {
     },
     { 
       name: "Health Care Direct UK",
-      img: "/src/assets/united-states (1) 1.png",
+      img: img8,
       market: "US",
       type: t("typeProducts"),
       age: "2019",
@@ -58,7 +67,7 @@ const Home = () => {
     },
     { 
       name: "Flagman_Shop",
-      img: "/src/assets/united-kingdom 1.png",
+      img: img9,
       market: "GB",
       type: t("typeProducts"),
       age: "2019",
@@ -68,7 +77,7 @@ const Home = () => {
     },
     { 
       name: "Health Care Direct UK",
-      img: "/src/assets/united-kingdom 1 (1).png",
+      img: img10,
       market: "GB",
       type: t("typeProducts"),
       age: "2019",
@@ -78,7 +87,7 @@ const Home = () => {
     },
     { 
       name: "Flagman_Shop",
-      img: "/src/assets/united-kingdom 1 (1).png",
+      img: img10,
       market: "GB",
       type: t("typeProducts"),
       age: "2019",
@@ -88,7 +97,7 @@ const Home = () => {
     },
     { 
       name: "Health Care Direct UK",
-      img: "/src/assets/united-kingdom 1 (1).png",
+      img: img10,
       market: "GB",
       type: t("typeProducts"),
       age: "2019",
@@ -115,10 +124,10 @@ const Home = () => {
             </button>
             <div className="flex w-[70%] mt-[2rem] justify-between mb-[40px]">
               <div className="flex mr-[2rem] w-[50%] justify-between">
-                <img src="../../../../src/assets/facebook-logo (1).png" alt="" />
-                <img src="../../../../src/assets/instagram-logo.png" alt="" />
-                <img src="../../../../src/assets/linkedin-logo 1.png" alt="" />
-                <img src="../../../../src/assets/instagram-logo (1).png" alt="" />
+                <img src={img1} alt="" />
+                <img src={img3} alt="" />
+                <img src={img4} alt="" />
+                <img src={img5} alt="" />
               </div>
               <div className="flex w-[50%] justify-between">
                 <img src="../../../../src/assets/facebook-logo (2).png" alt="" />
@@ -302,21 +311,21 @@ const Home = () => {
         <div>
           <h1 className='text-[2rem] mb-[40px] font-bold'>{t("home.text9")}</h1>
           <div className='w-[500px] ml-[50px] mb-[40px] p-4 flex items-start rounded-md shadow-md'>
-            <img className='mr-[30px]' src="/src/assets/verified-account 1.png" alt=""  />
+            <img className='mr-[30px]' src="../../../../src/assets/verified-account 1.png" alt=""  />
             <div className='w-[300px]'>
               <h1 className='text-[1.2rem] mt-[10px] mb-[10px] font-bold'>{t("home.card.card1.name")}</h1>
               <p>{t("home.card.card1.desc")}</p>
             </div>
           </div>
           <div className='w-[500px] ml-[50px] mb-[40px] p-4 flex items-start rounded-md shadow-md'>
-            <img className='mr-[30px]' src="/src/assets/verified-account 2.png" alt="" />
+            <img className='mr-[30px]' src="../../../../src/assets/verified-account 2.png" alt="" />
             <div>
               <h1 className='text-[1.2rem] mt-[10px] mb-[10px] font-bold'>{t("home.card.card2.name")}</h1>
               <p>{t("home.card.card2.desc")}</p>
             </div>
           </div>
           <div className='w-[500px] ml-[50px] mb-[40px] p-4 flex items-start rounded-md shadow-md'>
-            <img className='mr-[30px]' src="/src/assets/verified-account 3.png" alt="" />
+            <img className='mr-[30px]' src="../../../../src/assets/verified-account 3.png" alt="" />
             <div>
               <h1 className='text-[1.2rem] mt-[10px] mb-[10px] font-bold'>{t("home.card.card3.name")}</h1>
               <p>{t("home.card.card3.desc")}</p>
@@ -342,7 +351,7 @@ const Home = () => {
           <div className="space-y-6">
             <div className="flex items-start space-x-4">
               <img 
-                src="/src/assets/wifi 1.png" 
+                src="../../../../src/assets/wifi 1.png" 
                 alt="Work around the world" 
                 className="w-10 h-10 flex-shrink-0"
               />
@@ -359,7 +368,7 @@ const Home = () => {
             <div className="flex items-start space-x-4">
               
               <img 
-                src="/src/assets/deal 1.svg" 
+                src="../../../../src/assets/deal 1.svg" 
                 alt="All types of selling" 
                 className="w-10 h-10 flex-shrink-0"
               />
@@ -375,7 +384,7 @@ const Home = () => {
 
             <div className="flex items-start space-x-4">
               <img 
-                src="/src/assets/money-bag 1.png" 
+                src="../../../../src/assets/money-bag 1.png" 
                 alt="Money flow" 
                 className="w-10 h-10 flex-shrink-0"
               />
@@ -456,19 +465,19 @@ const Home = () => {
           <h3 className="text-lg font-medium mt-4">Check your account</h3>
           <p className="text-gray-600 mt-2 w-[200px] text-sm">Check the account of your choice via TeamViewer or Any Desk. You inspect the account from your end to confirm your selection.</p>
         </div>
-        <img className='w-[120px] hidden md:block' src="/src/assets/down.png" alt="Step arrow" />
+        <img className='w-[120px] hidden md:block' src="../../../../src/assets/down.png" alt="Step arrow" />
         <div className="flex flex-col items-center text-center max-w-xs">
           <div className="flex items-center justify-center w-12 h-12 rounded-full bg-orange-500 text-white text-lg font-bold">2</div>
           <h3 className="text-lg font-medium mt-4">Payment</h3>
           <p className="text-gray-600 mt-2 w-[200px]  text-sm">We take a payment using your preferred method. We accept Payoneer, bank transfer and bitcoin.</p>
         </div>
-        <img className='w-[120px] hidden md:block' src="/src/assets/up.png" alt="Step arrow" />
+        <img className='w-[120px] hidden md:block' src="../../../../src/assets/up.png" alt="Step arrow" />
         <div className="flex flex-col items-center text-center max-w-xs">
           <div className="flex items-center justify-center w-12 h-12 rounded-full bg-orange-500 text-white text-lg font-bold">3</div>
           <h3 className="text-lg font-medium mt-4">Account ownership</h3>
           <p className="text-gray-600 mt-2 w-[200px]  text-sm">We give you all the log in details to your new account. After that, you set up your own password and Two-Step authentication methods for your Amazon account and Virtual Proxy Server where your account is located.</p>
         </div>
-        <img className='w-[120px] hidden md:block' src="/src/assets/down.png" alt="Step arrow" />
+        <img className='w-[120px] hidden md:block' src="../../../../src/assets/down.png" alt="Step arrow" />
         <div className="flex flex-col items-center text-center max-w-xs">
           <div className="flex items-center justify-center w-12 h-12 rounded-full bg-orange-500 text-white text-lg font-bold">4</div>
           <h3 className="text-lg font-medium mt-4">Account set up</h3>
@@ -478,7 +487,7 @@ const Home = () => {
     </div>
     <div>
           <div className="mt-16 bg-gray-100 p-8 rounded-lg shadow-md flex flex-col md:flex-row items-center">
-            <img className="w-48 h-48 rounded-full object-cover" src="/src/assets/request.png" />
+            <img className="w-48 h-48 rounded-full object-cover" src="../../../../src/assets/request.png" />
             <div className="md:ml-8 text-left">
               <div className="mt-4 flex items-center">
               <img src="../../../../src/assets/1231242112 1.png" className='mr-[60px]' alt="" />
@@ -500,7 +509,7 @@ const Home = () => {
               <div className="max-w-sm p-4 border rounded-lg shadow-md">
                 <img src="../../../../src/assets/Ellipse 311 (1).png" alt="" />
                 <div>
-                <img className='ml-[5rem] mt-[-30px] pb-[1rem]' src="/src/assets/“ (1).png" alt="" />
+                <img className='ml-[5rem] mt-[-30px] pb-[1rem]' src="../../../../src/assets/“ (1).png" alt="" />
                 <p className="text-gray-600 italic">{t("home.lecture")}</p>
                 <p className="mt-2 font-semibold">Steven Cody</p>
                 </div>
@@ -515,7 +524,7 @@ const Home = () => {
               </div>
             </div>
             <div className='w-[100px] m-auto mt-[30px]'>
-            <img className='flex justify-center' src="/src/assets/Group 380.png" alt="" />
+            <img className='flex justify-center' src="../../../../src/assets/Group 380.png" alt="" />
             </div>
           </div>
         </div>
