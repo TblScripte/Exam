@@ -4,6 +4,8 @@ import ArrowCircleRightIcon from '@mui/icons-material/ArrowCircleRight';
 import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
 import Leave from '../Leave/leave';
 import { TextField } from '@mui/material';
+import img1 from "../../../../src/assets/facebook-logo (1).png"
+
 const Home = () => {
   const { t, i18n } = useTranslation();
   const [currentLang, setCurrentLang] = useState(i18n.language || "en");
@@ -98,22 +100,27 @@ const Home = () => {
 
   return (
     <div>
-      <div className='w-[100%] flex-wrap bg-[#0B0D11] relative [clip-path:ellipse(170%_99%_at_50%_0%)]'>
-        <div className='w-[80%] m-auto flex flex-wrap justify-between pt-[30px] pb-[50px]'>
-          <div className='w-[40%] lg:text-start text-center'>
-            <h1 className='text-white mb-[20px] pt-[40px] text-[2rem] font-bold'>{t("home.text1")}</h1>
-            <p className='text-gray-400 text-[1.5rem] font-bold'>{t("home.text2")}</p>
-            <button className='bg-orange-600 text-[white] mt-[30px] p-[10px_20px] rounded-md'>
-              <ArrowCircleRightIcon sx={{ fontSize: "2rem", color: "white" }} /> {t("home.btn")}
+      <div className="w-[100%] flex-wrap bg-[#0B0D11] relative [clip-path:ellipse(170%_99%_at_50%_0%)]">
+        <div className="w-[80%] m-auto flex flex-wrap justify-between pt-[30px] pb-[50px]">
+          <div className="w-[40%]">
+            <h1 className="text-white mb-[20px] pt-[40px] text-[2rem] font-bold">
+              {t("home.text1")}
+            </h1>
+            <p className="text-gray-400 text-[1.5rem] font-bold">
+              {t("home.text2")}
+            </p>
+            <button className="bg-orange-600 text-[white] mt-[30px] p-[10px_20px] rounded-md">
+              <ArrowCircleRightIcon sx={{ fontSize: "2rem", color: "white" }} />{" "}
+              {t("home.btn")}
             </button>
-            <div className='flex w-[70%] mt-[2rem] justify-between mb-[40px]'>
-              <div className='flex mr-[2rem] w-[50%] justify-between'>
+            <div className="flex w-[70%] mt-[2rem] justify-between mb-[40px]">
+              <div className="flex mr-[2rem] w-[50%] justify-between">
                 <img src="../../../../src/assets/facebook-logo (1).png" alt="" />
                 <img src="../../../../src/assets/instagram-logo.png" alt="" />
                 <img src="../../../../src/assets/linkedin-logo 1.png" alt="" />
                 <img src="../../../../src/assets/instagram-logo (1).png" alt="" />
               </div>
-              <div className='flex w-[50%] justify-between'>
+              <div className="flex w-[50%] justify-between">
                 <img src="../../../../src/assets/facebook-logo (2).png" alt="" />
                 <img src="../../../../src/assets/instagram-logo (2).png" alt="" />
                 <img src="../../../../src/assets/linkedin-logo (2).png" alt="" />
@@ -122,17 +129,47 @@ const Home = () => {
             </div>
           </div>
           <div>
-            <img className='relative lg:w-[580px] md:ml-[50px]  md:w-[400px]' src="/src/assets/Mackbook Pro Mockup 1.png" alt="" />
-            <div className='lg:w-[300px] md:mt-[-15rem]  mt-[-20rem] p-[15px] ml-[8rem]' style={{ backgroundImage: "url('/src/assets/Ellipse 501 (2).png')", backgroundSize: "cover", backgroundPosition: "center", height: "297px" }}>
-              <div className='w-[270px]' style={{ backgroundImage: "url('/src/assets/Ellipse 501 (2).png')", backgroundSize: "cover", backgroundPosition: "center", height: "270px", paddingTop: "240px", padding: "10px" }}>
-                <div className='w-[240px]' style={{ backgroundImage: "url('/src/assets/Ellipse 501 (1).png')", backgroundSize: "cover", backgroundPosition: "center", height: "240px", marginTop: "3px", marginLeft: "5px" }}>
-                
-                </div>
+            <img
+              className="relative w-[580px]"
+              src="../../../../src/assets/Mackbook Pro Mockup 1.png"
+              alt=""
+            />
+            <div
+              className="w-[300px] mt-[-20rem] p-[15px] ml-[8rem]"
+              style={{
+                backgroundImage: "url('/src/assets/Ellipse 501 (2).png')",
+                backgroundSize: "cover",
+                backgroundPosition: "center",
+                height: "297px",
+              }}
+            >
+              <div
+                className="w-[270px]"
+                style={{
+                  backgroundImage: "url('/src/assets/Ellipse 501 (2).png')",
+                  backgroundSize: "cover",
+                  backgroundPosition: "center",
+                  height: "270px",
+                  paddingTop: "240px",
+                  padding: "10px",
+                }}
+              >
+                <div
+                  className="w-[240px]"
+                  style={{
+                    backgroundImage: "url('/src/assets/Ellipse 501 (1).png')",
+                    backgroundSize: "cover",
+                    backgroundPosition: "center",
+                    height: "240px",
+                    marginTop: "3px",
+                    marginLeft: "5px",
+                  }}
+                ></div>
               </div>
             </div>
           </div>
         </div>
-        <div className='flex justify-center w-[100px] m-auto'>
+        <div className="flex justify-center w-[100px] m-auto">
           <img src="../../../../src/assets/Screenshot 2025-03-02 111026.png" alt="" />
         </div>
       </div>
